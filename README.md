@@ -11,7 +11,7 @@ To cross us is to court disaster, for we are the apex predators of the digital r
 
 
 
-💻 As a Linux enthusiast, I thrive in the open-source environment, leveraging its power to explore and enhance security systems. My journey in the world of hacking has equipped me with a solid understanding of various operating systems, networking, and security protocols.
+ As a Linux enthusiast, I thrive in the open-source environment, leveraging its power to explore and enhance security systems. My journey in the world of hacking has equipped me with a solid understanding of various operating systems, networking, and security protocols.
 
 🔍 At ZeroByte, we believe in the importance of knowledge sharing within the hacking community. We constantly seek to improve our skills, collaborate on projects, and contribute to a safer online world. Whether it’s through penetration testing, vulnerability assessments, or security research, our team is committed to pushing the envelope while respecting ethical boundaries.
 
