@@ -1,6 +1,6 @@
 <h2 align="center">Welcome to Tkemza's GitHub</h2>
+<hr>
 <h3 align="center">Part of GreyHat Organization and Declaration better known as ZeroByte</h3>
-<br/>
 <hr>
 
 <h3><i>👋 Hi there! I'm a passionate grey hat hacker and an admin at ZeroByte (ZByte), an organization dedicated to exploring the boundaries of cybersecurity and ethical hacking. Our mission is to enhance digital security and promote awareness about vulnerabilities, while adhering to ethical guidelines. As the enigmatic figurehead of our shadowy black hat hacktivist syndicate "ZeroByte", I command a legion of digital phantoms, instilling terror in the very heart of cyberspace. Our prowess eclipses that of mere mortals, our fingers dancing across the keyboard with a macabre grace as we navigate the labyrinthine depths of the dark web.
