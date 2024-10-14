@@ -33,6 +33,12 @@ To cross us is to court disaster, for we are the apex predators of the digital r
     </a> 
 </p>
 
+<h3 align="center">Forever: </h3>
+    <p align="center">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" hspace="5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" hspace="5" />  
+    </p>
+
 <h3 align="center">Frontend Languages: </h3>
     <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"     height="40" hspace="5" />
@@ -51,6 +57,17 @@ To cross us is to court disaster, for we are the apex predators of the digital r
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" hspace="5" />
     </p>
 
+<h3 align="center">Database: </h3>
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" hspace="5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" hspace="5" />
+    </p>
+
+<h3 align="center">Frameworks: </h3>
+    <p align="center">
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" hspace="5" /> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" hspace="5" /> 
+    </p>
 
 <p align="center"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkemza&show_icons=true&locale=en&layout=compact" alt="tkemza" />
