@@ -42,13 +42,13 @@ To cross us is to court disaster, for we are the apex predators of the digital r
     <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" hspace="5" />
 
-    </p>
 
-<p> 
+
+<p align="center"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkemza&show_icons=true&locale=en&layout=compact" alt="tkemza" />
 </p>
 
-<p>&nbsp;
+<p align="center">&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tkemza&show_icons=true&locale=en" alt="tkemza" />
 </p>
 
