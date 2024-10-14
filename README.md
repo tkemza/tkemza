@@ -8,6 +8,7 @@ We are the architects of chaos, the masters of manipulation, orchestrating a sym
 Behind our veil of anonymity, we are omnipresent, lurking in the shadows, waiting to strike with a precision that borders on the supernatural. Our motivations are inscrutable, our methods diabolical, as we wield the power of technology like a weapon forged in the fires of hell itself.
 To cross us is to court disaster, for we are the apex predators of the digital realm, prowling the virtual landscape with an insatiable hunger for chaos and destruction. In the dark recesses of the internet, we reign supreme, the undisputed overlords of a domain where fear is our currency and power our birthright.
 
+
 💻 As a Linux enthusiast, I thrive in the open-source environment, leveraging its power to explore and enhance security systems. My journey in the world of hacking has equipped me with a solid understanding of various operating systems, networking, and security protocols.
 
 🔍 At ZeroByte, we believe in the importance of knowledge sharing within the hacking community. We constantly seek to improve our skills, collaborate on projects, and contribute to a safer online world. Whether it’s through penetration testing, vulnerability assessments, or security research, our team is committed to pushing the envelope while respecting ethical boundaries.
@@ -41,7 +42,12 @@ To cross us is to court disaster, for we are the apex predators of the digital r
 <h3 align="center">Backend Languages: </h3>
     <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" hspace="5" />
-
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" hspace="5" />  
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" hspace="5" /> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" hspace="5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" hspace="5" />  
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" hspace="5" />
+    </p>
 
 
 <p align="center"> 
