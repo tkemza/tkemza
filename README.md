@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="ZeroByte.png" style="border-radius: 20px;">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /> </p>
 
 - 🔭 I’m currently working on: [ZephyrOS](https://github.com/TodorW/ZephyrOS)
 
