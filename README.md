@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: [ZephyrOS](https://github.com/TodorW/ZephyrOS)
 
-- 📫 Reach me: **tkemaz.git@proton.me**
+- 📫 Reach me: **n11kol1c**
 
 <h3 align="left">Forever: </h3>
     <p align="left">
