@@ -1,11 +1,11 @@
 <h1 align="center">Welcome to матија's GitHub</h1>
-<h3 align="center">Part of GreyHat Hactivist Organization better known as ZeroByte</h3>
+<h3 align="center">Part of GreyHat Hactivist Organization better known as ZeroByte 🇲🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /> </p>
 
 - 🔭 I’m currently working on: [ZephyrOS](https://github.com/TodorW/ZephyrOS)
 
-- 📫 Reach me: **n11kol1c**
+- 📫 Reach me on Discord: **n11kol1c**
 
 <h3 align="left">Forever: </h3>
     <p align="left">
