@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to матија's GitHub</h1>
-<h3 align="center">Part of GreyHat Hactivist Organization and Declaration better known as ZeroByte</h3>
+<h3 align="center">Part of GreyHat Hactivist Organization better known as ZeroByte</h3>
 
 <img align="right" alt="Coding" src="ZeroByte.png" style="border-radius: 20px;" height="400" width="400"/>
 
