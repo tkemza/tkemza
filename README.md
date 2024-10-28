@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Tkemza's GitHub</h1>
+<h1 align="center">Welcome to матија's GitHub</h1>
 <h3 align="center">Part of GreyHat Hactivist Organization and Declaration better known as ZeroByte</h3>
 
 <img align="right" alt="Coding" src="ZeroByte.png" style="border-radius: 20px;" height="400" width="400"/>
@@ -45,14 +45,14 @@
 </i>
 <p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkemza&show_icons=true&locale=en&layout=compact" alt="tkemza" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=матија&show_icons=true&locale=en&layout=compact" alt="tkemza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkemza&show_icons=true&locale=en" alt="tkemza" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=матија&show_icons=true&locale=en" alt="tkemza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkemza&" alt="tkemza" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=матија&" alt="tkemza" /></p>
 
 <p align="right"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=tkemza" alt="tkemza" />
+        <img src="https://github-profile-trophy.vercel.app/?username=матија" alt="tkemza" />
     </a> 
 </p>
