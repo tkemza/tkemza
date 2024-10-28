@@ -35,7 +35,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" hspace="5" /> 
     </p>
 
-<h3>
+<p>
     <i>Hi there! I'm a passionate GreyHat hacker and an admin at ZeroByte (ZByte), an organization dedicated to exploring the boundaries of cybersecurity and ethical hacking. Our mission is to enhance digital security and promote awareness about vulnerabilities, while adhering to ethical guidelines. As a hacktivist declaration and organization better known as ZeroByte, our task is to create various exploits and find holes and flaws in the very labyrinths of the dark web. Therefore, we are accurate and unerring in our goal, doing it all anonymously leaving every victim trembling with fear.
 
 
@@ -44,7 +44,7 @@
  At ZeroByte, we believe in the importance of knowledge sharing within the hacking community. We constantly seek to improve our skills, collaborate on projects, and contribute to a safer online world. Whether it’s through penetration testing, vulnerability assessments, or security research, our team is committed to pushing the envelope while respecting ethical boundaries.
 
  If you're interested in cybersecurity, ethical hacking, or simply want to discuss the latest trends in technology, feel free to connect with me!</i>
-<h3>
+<p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkemza&show_icons=true&locale=en&layout=compact" alt="tkemza" /></p>
 
