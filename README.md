@@ -36,7 +36,7 @@
     </p>
 
 <p>
-    <i>I'm a passionate GreyHat hacker and an admin at ZeroByte (ZByte), an organization dedicated to exploring the boundaries of cybersecurity and ethical hacking. Our mission is to enhance digital security and promote awareness about vulnerabilities, while adhering to ethical guidelines. As a hacktivist declaration and organization better known as ZeroByte, our task is to create various exploits and find holes and flaws in the very labyrinths of the dark web. Therefore, we are accurate and unerring in our goal, doing it all anonymously leaving every victim trembling with fear.
+    <i>I'm a passionate GreyHat hacker and an admin at ZeroByte (ZByte), an organization dedicated to exploring the boundaries of cybersecurity and ethical hacking. Our mission is to enhance digital security and promote awareness about vulnerabilities, while adhering to ethical guidelines. As a hacktivist declaration and organization better known as ZeroByte, our task is to create various exploits and find holes and flaws in the very labyrinths of the dark web. Therefore, we are accurate and unerring in our goal, doing it all anonymously leaving no trace behind.
 
 
  As a Linux enthusiast, I thrive in the open-source environment, leveraging its power to explore and enhance security systems. My journey in the world of hacking has equipped me with a solid understanding of various operating systems, networking, and security protocols.
