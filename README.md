@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Tkemza's GitHub</h1>
 <h3 align="center">Part of GreyHat Hactivist Organization and Declaration better known as ZeroByte</h3>
 
-<img align="right" alt="Coding" src="ZeroByte.png" style="border-radius: 20px;" height="300" width="300"/>
+<img align="center" alt="Coding" src="ZeroByte.png" style="border-radius: 20px;" height="300" width="300"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /> </p>
 
