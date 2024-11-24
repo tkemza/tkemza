@@ -19,10 +19,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" hspace="5" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"   height="40" hspace="5" />
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" hspace="5" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40" hspace="5" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" hspace="5" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40" hspace="5" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" hspace="5" />
     </p>
     
 
@@ -34,8 +31,15 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" hspace="5" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" hspace="5" />   
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" hspace="5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40" hspace="5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" hspace="5" />
     </p>
 
+<h3 align="left">Frameworks:</h3>
+    <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40" hspace="5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40" hspace="5" />
+    </p>
 <p>
     <i>I'm a passionate GreyHat hacker and an administrator at ZeroByte (ZByte), an organization dedicated to exploring the boundaries of cybersecurity and ethical hacking. Our mission is to enhance digital security and promote awareness about vulnerabilities, while adhering to ethical guidelines. As a hacktivist organization, our task is to create various exploits and find holes and flaws in the very labyrinths of the dark web. Therefore, we are accurate and unerring in our goal, doing it all anonymously leaving no trace behind.
  As a Linux enthusiast, I thrive in the open-source environment, leveraging its power to explore and enhance security systems. My journey in the world of hacking has equipped me with a solid understanding of various operating systems, networking, and security protocols.
