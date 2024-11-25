@@ -10,7 +10,7 @@
 <h3 align="left">Forever: </h3>
     <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" hspace="5" />  
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" hspace="5" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" hspace="5" />
     </p>
 
 <h3 align="left">Frontend Languages: </h3>
