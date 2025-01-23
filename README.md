@@ -7,25 +7,19 @@
 
 - 📫 Reach me on Discord: **n11kol1c**
 
-<h3 align="left">Forever: </h3>
-    <p align="left">
+<p>
+    <i>I'm a passionate GreyHat hacker and an administrator at ZeroByte (ZByte), an organization dedicated to exploring the boundaries of cybersecurity and ethical hacking. Our mission is to enhance digital security and promote awareness about vulnerabilities, while adhering to ethical guidelines. As a hacktivist organization, our task is to create various exploits and find holes and flaws in the very labyrinths of the dark web. Therefore, we are accurate and unerring in our goal, doing it all anonymously leaving no trace behind.
+ As a Linux enthusiast, I thrive in the open-source environment, leveraging its power to explore and enhance security systems. My journey in the world of hacking has equipped me with a solid understanding of various operating systems, networking, and security protocols.
+</i>
+<p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" hspace="5" />  
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" hspace="5" />
-    </p>
-
-<h3 align="left">Frontend: </h3>
-    <p align="left">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"     height="40" hspace="5" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" hspace="5" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"   height="40" hspace="5" />
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" hspace="5" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" hspace="5" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="dart" width="40" height="40" />
-    </p>
-    
-
-<h3 align="left">Backend: </h3>
-    <p align="left">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" hspace="5" />  
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" hspace="5" /> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" hspace="5" />
@@ -34,27 +28,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" hspace="5" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40" hspace="5" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" hspace="5" />
-    </p>
-
-<h3 align="left">Frameworks:</h3>
-    <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40" hspace="5" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40" hspace="5" />
-    </p>
-<p>
-    <i>I'm a passionate GreyHat hacker and an administrator at ZeroByte (ZByte), an organization dedicated to exploring the boundaries of cybersecurity and ethical hacking. Our mission is to enhance digital security and promote awareness about vulnerabilities, while adhering to ethical guidelines. As a hacktivist organization, our task is to create various exploits and find holes and flaws in the very labyrinths of the dark web. Therefore, we are accurate and unerring in our goal, doing it all anonymously leaving no trace behind.
- As a Linux enthusiast, I thrive in the open-source environment, leveraging its power to explore and enhance security systems. My journey in the world of hacking has equipped me with a solid understanding of various operating systems, networking, and security protocols.
-</i>
-<p>
+    
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkemza&show_icons=true&locale=en&layout=compact" alt="tkemza" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkemza&show_icons=true&locale=en" alt="tkemza" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkemza&" alt="tkemza" /></p>
-
-<p align="right"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=tkemza" alt="tkemza" />
-    </a> 
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkemza&show_icons=true&locale=en&layout=compact" alt="tkemza" /></p>
