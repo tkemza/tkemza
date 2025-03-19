@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /> </p>
 
-- 🔭 I’m currently working on: [KumOS](https://github.com/TodorW/ZephyrOS)
+- 🔭 I’m currently working on: [KumOS](https://github.com/TodorW/ZephyrOS), pkgi 2.0!
 
 - 📫 Reach me on Discord: **n11kol1c**
 
 <p>
     <i>I'm a passionate GreyHat hacker and an administrator at ZeroByte (ZByte), an organization dedicated to exploring the boundaries of cybersecurity and ethical hacking. Our mission is to enhance digital security and promote awareness about vulnerabilities, while adhering to ethical guidelines. As a hacktivist organization, our task is to create various exploits and find holes and flaws in the very labyrinths of the dark web. Therefore, we are accurate and unerring in our goal, doing it all anonymously leaving no trace behind.
- As a Linux enthusiast, I thrive in the open-source environment, leveraging its power to explore and enhance security systems. My journey in the world of hacking has equipped me with a solid understanding of various operating systems, networking, and security protocols.
 </i>
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" hspace="5" />  
