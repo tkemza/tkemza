@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkemza&label=Profile%20views&color=0e75b6&style=flat" alt="tkemza" /> </p>
 
-- 🔭 I’m currently working on: [KumOS](https://github.com/TodorW/ZephyrOS), pkgi 2.0!
+- 🔭 I’m currently working on: [KumOS](https://github.com/TodorW/ZephyrOS), [wpkgi](https://github.com/tkemza/wpkgi.git)!
 
 - 📫 Reach me on Discord: **n11kol1c**
 
